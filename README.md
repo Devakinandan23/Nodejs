@@ -27,4 +27,4 @@ License
 
 This repository is licensed under the MIT License: https://opensource.org/license/mit/.
 
-You can customize this README to fit your specific repository. For example, you can add more information about the projects that you are working on
+You can customize this README. you can add more information about the projects that you are working on
