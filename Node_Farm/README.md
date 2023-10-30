@@ -12,6 +12,8 @@ The project includes the following key components:
 - A data file (`data.json`) containing information about various farm products.
 - A module (`replaceTemplate.js`) for replacing placeholders in HTML templates with actual product data.
 
+project link:- https://fictional-xylophone-49pjjg7wqvr37qgv-8000.app.github.dev/
+
 ## Project Structure
 
 The project consists of the following main files and directories:
