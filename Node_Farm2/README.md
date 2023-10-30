@@ -2,8 +2,6 @@
 
 ## Project Overview
 
-https://devakinandan23.github.io/Nodejs_Projects/
-
 Node Farm is a Node.js project that serves as a simple web server for providing information about farm products and their details. It is designed to demonstrate how to create a basic web server using Node.js and handle various types of HTTP requests.
 
 The project includes the following key components:
